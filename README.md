@@ -1,0 +1,2 @@
+# Notes
+Storing random thoughts
