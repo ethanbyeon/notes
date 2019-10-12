@@ -1,0 +1,6 @@
+HashSet: Sorts randomly
+--> When we do not consider the order
+
+TreeSet: Sorts in ascending order
+
+LinkedHashSet: Preserves inserted order
