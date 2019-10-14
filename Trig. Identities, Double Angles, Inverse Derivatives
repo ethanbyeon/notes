@@ -1,0 +1,16 @@
+Inverse Derivatives
+sin x = cos x                   csc x = csc x cot x
+cos x = - sin x                 sec x = sec x tan x
+tan x = sec ^2 x                cot x = - csc ^2 x
+
+Identities
+sin ^2 x + cos ^2x = 1
+1 + cot ^2 x = csc ^2 x
+tan ^2 x + 1 = sec ^2 x
+
+Double Angles
+sin2x = -csc x cot x
+cos2x = cos ^2 x - sin ^2 x
+      = 2cos ^2 x - 1
+      = 1 - 2sin ^2 x
+tan2x = 2tan x / 1 - tan ^2 x
