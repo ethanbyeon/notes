@@ -1,0 +1,18 @@
+Derivatives of Trigonometric Functions:
+sin x = cos x    csc x = -csc x cot x
+cos x = -sin x   sec x = sec x tan x
+tan x = sec^2 x  cot x = -csc^2 x
+
+Derivatives of Inverse Trigonometric Functions:
+arcsin x = 1 / sqrt(1 - x^2)   arccsc x = -1 / sqrt(x^2 - 1)
+arccos x = -1 / sqrt(1 - x^2)  arcsec x = 1 / x sqrt(x^2 - 1)
+arctan x = 1 / 1 + x^2         arccot x = -1 / 1 + x^2
+
+Derivatives of Exponential Functions:
+y = a^x --> y^1 = a^x (ln(a))(x)^1
+
+Derivatives of Logarithims:
+ln(x) = 1 / x
+ln[f(x)] = [1 / f(x)] * f^1(x)
+log a (x) = 1 / xln(a)
+log a (f(x)) = [1 / f(x)ln(a)] * f^1(x)
