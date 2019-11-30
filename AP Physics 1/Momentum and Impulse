@@ -1,0 +1,41 @@
+Introduction to Momentum
+P = m * v
+F = m * a
+  = m * delta v / delta t
+  = delta (mv) / delta t
+  = delta p / delta t
+
+F * delta t = impulse (J)
+
+Linear Momentum Review
+P = Product of an object's mass and velocity.
+    Momentum is conserved when no external forces act on a system (kg * m / s)
+
+P = mv
+delta p = F(net) * delta t
+
+How P and F(net) are Related
+delta p = m * delta v
+        = m(a * delta t)
+        = F(net) * delta t
+delta p = F(net) * delta t
+F(net) = delta p / delta t
+
+Key Concepts
+Momentum: Vector quantity that describes amount of mass in motion.
+Kinetic: Measure of an object's energy from motion.
+
+Forces cause a change in momentum, but momentum does not cause a change in force.
+
+Impulse Review
+F * delta t = Product of average force exerted on an object and the time interval during which the force is being applied.
+              Equal to change in momentum (N * s) or (kg * m / s)
+              
+delta p = F(net) * delta t
+
+How Force Changes Momentum
+F * delta t = delta p
+F = delta p / delta t --> Rate at which momentum changes
+
+Key Concept
+Impulse is a vector: negative impulse means net force is in the negative direction.
