@@ -1,0 +1,5 @@
+Center of Mass: Average position of all parts of the systemm weighted by mass.
+                The velocity of a system's center of mass does not change if the system is closed.
+
+Equation: X(CM) = m1X1 + m2X2 + ... / m1 + m2 + ...
+Meaning: Center of mass is the sum of each mass times its position divided by total mass.
