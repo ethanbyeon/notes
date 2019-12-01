@@ -1,0 +1,31 @@
+What is Principle of Conservation of Momentum?
+In Physics, conservation refers to something which doesn't change.
+  Same value both before and after an event.
+  
+In mechanics, there are three fundamental quantities which are conserved. These are momentum, energy, and angular momentum.
+*Conservation of momentum applies only to an isolated system of objects (objects that are not acted on by force external to the system)
+
+Principle of Conservation of Momentum:
+P0 + P20 + ... = Pf + P2f + ...
+
+Why is Momentum Conserved?
+Conservation of momentum is a direct consequence of Newton's third law.
+F(AB) = - F(BA) --> Equal force in the opposite direction (A due to B = B due to A)
+t(AB) = t(BA)
+F(AB) * t(AB) = - F(BA) * t(BA) --> Consequently, the impulse experienced by objects A and B must be equal in magnitude and opposite in direction.
+
+m(A) * delta V(A) = - m(B) * delta V(B)
+m(A) * delta V(A) + m(B) * delta V(B) = 0
+
+*Momentum is a vector quantity: use vector addition when summing tgether the momenta of the multiple bodies that make up a system.
+*Conservation of momentum is only applied when external impulse is zero.
+  Consider the points before collision and after collision so that the time interval is so small that gravity can't apply much impulse at all.
+  
+Ellastic Collision Review
+Conservation of Momentum: In a closed sytem momentum is constant
+Elastic collision: Collision where both momentum and kinetic energy are conserved.
+                   There is no change in kinetic energy in the system as a result of the collision.
+                   
+If we imagine ourselves sitting on object 1 moving at velocity V1, object 2 will look like it is moving at speed V1 - V2.
+The difference in the velocities of the two objects tells us how fast object 1 is moving relative to object 2. 
+That is called relative velocity.
