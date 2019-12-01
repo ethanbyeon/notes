@@ -1,0 +1,22 @@
+Inelastic Collision: Collision which momentum is conserved but not kinetic energy.
+Perfectly Inelastic Collision: Collision where objects stick together and have the same final velocity.
+Explosion: Reverse inelastic collision where momentum is conserved and kinetic energy increases.
+
+How to determine if a collision is elastic or inelastic
+If objects stick together, then a collision is perfectly inelastic. 
+When objects don’t stick together, we can figure out the type of collision by finding the initial kinetic energy and comparing it with the final kinetic energy. 
+If the kinetic energy is the same, then the collision is elastic. 
+If the kinetic energy changes, then the collision is inelastic regardless of whether the objects stick together or not. 
+In either case, for collisions with no external forces, momentum is conserved.
+
+Common mistakes and misconceptions
+People sometimes think that objects must stick together in an inelastic collision. 
+However, objects only stick together during a perfectly inelastic collision. 
+Objects may also bounce off each other or explode apart, and the collision is still considered inelastic as long as kinetic energy is not conserved.
+
+Sometimes people think kinetic energy is only lost during inelastic collisions. 
+Collisions are considered inelastic when kinetic energy is not conserved, but this could be from either a loss or gain or kinetic energy. 
+For example, in an explosion-type collision, the kinetic energy increases.
+
+It is common for people to try to conserve energy in a collision. 
+We can only do this if we are told the collision is perfectly elastic.
