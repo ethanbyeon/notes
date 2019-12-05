@@ -17,7 +17,7 @@ F(AB) * t(AB) = - F(BA) * t(BA) --> Consequently, the impulse experienced by obj
 m(A) * delta V(A) = - m(B) * delta V(B)
 m(A) * delta V(A) + m(B) * delta V(B) = 0
 
-*Momentum is a vector quantity: use vector addition when summing tgether the momenta of the multiple bodies that make up a system.
+*Momentum is a vector quantity: use vector addition when summing together the momenta of the multiple bodies that make up a system.
 *Conservation of momentum is only applied when external impulse is zero.
   Consider the points before collision and after collision so that the time interval is so small that gravity can't apply much impulse at all.
   
