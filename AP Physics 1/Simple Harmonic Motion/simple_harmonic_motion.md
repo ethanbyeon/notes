@@ -48,7 +48,7 @@ Increasing amplitude increases the restoring force --> proportionally increases 
 
 ---
 
-##Pendulums
+## Pendulums
 
 *Simple Pendulum*: A mass suspended form a string that can oscillate when displaced form its rest position.
 T = 2pi * sqrt(l / g) Period of the pendulum is proportional to...
@@ -58,7 +58,7 @@ Increasing the gravitational acceleration -> increases force on the system -> gr
 
 ---
 
-##Energy of Simple Harmonic Oscillator Review
+## Energy of Simple Harmonic Oscillator Review
 
 Elastic Potential Energy:                 Us = 1/2 * kx^2
 Change in Gravitational Potential Energy: delta Ug = mg * delta y
