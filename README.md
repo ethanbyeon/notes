@@ -1,2 +1,2 @@
 # Notes
-Storing random thoughts
+A repository for what I've learned.
