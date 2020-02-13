@@ -4,19 +4,20 @@
 | ---- | ------- |
 | Oscillatory Motion | Repeated back and forth movement about an equilibrium position |
 | Restoring Force | A force acting opposite to displacement to bring the system back to equilibrium (or equilibrium position). The force magnitude depends only on displacement. |
-| Simple Harmonic Motion ( SHM ) | Oscillatory motion where the restoring force is the net force acting on the system.
-| Simple Harmonic Oscillator ( SHO ) | An object is a SHO when the restoring force is directly proportional to the displacement. |
+| Simple Harmonic Motion (SHM) | Oscillatory motion where the restoring force is the net force acting on the system.
+| Simple Harmonic Oscillator (SHO) | An object is a SHO when the restoring force is directly proportional to the displacement. |
 
 **Net force on the system = restoring force**  
-**Equilibrium Position = Rest Position**
+**Equilibrium Position = Rest Position**  
+**For a spring-mass system, the spring force is responsible for oscillation.**
 
 ---
 ## **Equations**
 
 | Equation | Meaning |
 | -------- | ------- |
-| ∣ Fs​ ∣ = k ∣ x ∣ | The magnitude of the spring force is directly proportional to the spring constant and the magnitude of displacement. |
-| x ( t ) = A cos ( 2π f t ) | Displacement as a function of time is proportional to amplitude and the cosine of 2π multiplied by the frequency and time. |
+| ∣Fs​∣ = k∣x∣ | The magnitude of the spring force is directly proportional to the spring constant and the magnitude of displacement. |
+| x(t) = A cos(2πft) | Displacement as a function of time is proportional to amplitude and the cosine of 2π multiplied by the frequency and time. |
 
 ---
 
@@ -24,15 +25,17 @@
 
 | Term | Meaning | 
 | ---- | ------- |
-| Amplitude ( A ) | The maximum magnitude of displacement from the equilibrium position.<br>**i.e.** "Peak to Peak,"  "Valley to Valley," "Crest to Crest" |
-| Period ( T ) | The time required for an entire cycle (the time required for the entire system to "reset" at the equilibrium position).
+| Amplitude (A) | The maximum magnitude of displacement from the equilibrium position.<br>**i.e.** "Peak to Peak,"  "Valley to Valley," "Crest to Crest" |
+| Period (T) | The time required for an entire cycle (the time required for the entire system to "reset" at the equilibrium position). |
 
 Fs = -k x  
 
 When x is **negative**, spring force is **positive**.  
 When x is **positive**, spring force is **negative**.
 
-**The force of the spring is proportional to the amount that the spring is stretched (displacement).**
+**The restoring force is proportional to displacement from equilibrium.**  
+
+For that reason, both the magnitude of the **restoring force** and the **acceleration** is the greatest at the maximum points of displacement.
 
 *Using Newton's Second Law*  
 
@@ -71,8 +74,11 @@ Increasing the gravitational acceleration -> increases force on the system -> gr
 | Equation | Meaning |
 | -------- | ------- |
 | Us = 1/2 * kx^2 | Elastic potential energy |
-| delta Ug = mg * delta y | Change in gravitational potential energy |
+| Δ Ug ​= mg Δy | Change in gravitational potential energy |
 | K = 1/2 * mv^2 | Translational kinetic energy |
-Us, max = when K = 0 (endpoints of oscillation, v = 0)
-K max = when Us = 0 (system moving through the equilibrium position, x = 0)
+
+Us, max = when K = 0 (endpoints of oscillation, v = 0)  
+K max = when Us = 0 (system moving through the equilibrium position, x = 0)  
 E tot = constant -> E tot = K max = Us, max
+
+**Source** [Khan Academy: Simple Harmonic Motion](https://www.khanacademy.org/science/ap-physics-1/simple-harmonic-motion-ap)
