@@ -1,5 +1,5 @@
 # Simple Harmonic Motion
-*Comprehending simple harmonic motion through a spring-mass and pendulum system.*  
+*Comprehending simple harmonic motion through a spring-mass and pendulum system.* 
 **Source** [Khan Academy: Simple Harmonic Motion](https://www.khanacademy.org/science/ap-physics-1/simple-harmonic-motion-ap)  
 
 ## **Key Terms**
