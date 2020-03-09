@@ -50,7 +50,7 @@ The object has the greatest magnitude of acceleration when it has the greatest p
 
 ---
 
-## Analyzing graphs: Period and Frequency
+## Analyzing Graphs: Period and Frequency
 
 | Term | Meaning | 
 | ---- | ------- |
