@@ -1,2 +1,2 @@
 # Notes
-A repository to store my notes from school.
+A repository for school notes
