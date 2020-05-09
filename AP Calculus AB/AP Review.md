@@ -93,4 +93,59 @@ L'Hopital's Rule
 A way to find the limit of certain kinds of expressions that are indeterminate forms (0/0 or infinity/infinity)
 *If the limit of the function gives us an undefined expression -> we can take the derivative of the top and the derivative of the bottom and see if we get a determinate expression (and maybe repeat the process)
 
-Integral Calculus Essentials
+The Integral
+The Antiderivative
+-> Reverse in reverse
+
+*Each function has more than one antiderivative (there are an infinite number of antiderivatives of a function)
+
+integral f(x)dx = (x^n+1 / n+1) + C
+
+integral kf(x)dx = k integral f(x)dx
+integral(f(x) + g(x))dx = integral f(x)dx + integral g(x)dx
+integral kdx = kx + C
+
+1. Break equation into separate integrals
+2. Integerate individually
+
+u-Substitution
+Used when the integrand is a composite function
+
+1. Replace the function with u
+2. Integrate the simpler function using the Power Rule
+
+Definite Integrals
+Area Under a Curve
+
+If you use the left endpoints:
+(b - a / n)[y0 + y1 + y2 + y3... + y(n - 1)]
+
+If you use the right endpoints:
+(b - a / n)[y1 + y2 + y3... + yn]
+
+lim n->infinity (b - a / n)[y0 + y1 + y2 + y3... + y(n - 1)]
+
+The Fundamental Theorem of Calculus
+integral b a f(x)dx = F(b) - F(a)
+
+Trapezoid Rule: 1/2 (b1 + b2)h
+
+Mean Value Theorem For Integrals
+Enables you to find the average value of a function
+
+If f(x) is continuous [a, b], then at some point c in the interval [a, b]:
+integral b a f(x)dx = f(c)(b - a)
+Graphically, finding the area of a rectangle whose base is the interval and whose height is some value of f(x) that creates a rectangel with the same area as the area under the curve
+
+Avg. value of f(x) on [a, b]:
+f(c) = 1/(b - a) integral b a f(x)dx
+
+The Second Fundamental Theorem of Calculus
+If f(x) is continuous on [a, b], then the derivative of the function F(x) = integral x a f(t)dt is f(x)
+
+Accumulation Functions
+The value of the integral is the area under the curve from the constant to the value x. As x gets bigger, so does the area.
+
+Inverse Trig Functions
+1. Use algebra and u-substitution
+2. Make the integrand conform to a pattern
