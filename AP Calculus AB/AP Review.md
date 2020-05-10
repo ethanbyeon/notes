@@ -7,6 +7,11 @@ If the highest power of x in a rational expression is...
 2. in the denominator, the limit is zero
 3. the same, the limit is the coefficient of the highest term in the numerator divided by the coefficient of the highest term in the denominator
 
+Tips when evaluating limits:
+1. Rationalization using conjugates
+2. Factorization and cancellation
+3. Alternate forms of trigonometric functions
+
 Limits of Trig functions
 1. lim sin x / x = 1
 2. lim (cos x - 1) / x = 0
