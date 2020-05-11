@@ -35,6 +35,11 @@ The Defintion of the Deriviative
 -> Differentiability: has to be continuous and differentiable
 
 Basic Differentiation
+Three Cases where a function is not differentiable:
+1. Wherever the function isn't continuous
+2. Wherever the graph of the function has a vertical tangent line
+3. Wherever the graph of the fucntion has a sharp turn
+
 Quotient Rule
 LoDeHi - HiDeLo / Lo^2
 
@@ -140,7 +145,7 @@ Enables you to find the average value of a function
 
 If f(x) is continuous [a, b], then at some point c in the interval [a, b]:
 integral b a f(x)dx = f(c)(b - a)
-Graphically, finding the area of a rectangle whose base is the interval and whose height is some value of f(x) that creates a rectangel with the same area as the area under the curve
+Graphically, finding the area of a rectangle whose base is the interval and whose height is some value of f(x) that creates a rectangle with the same area as the area under the curve
 
 Avg. value of f(x) on [a, b]:
 f(c) = 1/(b - a) integral b a f(x)dx
