@@ -21,3 +21,13 @@ Relative Minima & Maxima
 3. Plug in numbers to determine sign
 4. If increasing -> decreasing = relative maxima
 5. If decreasing -> increasing = relative minima
+
+Concavity
+1. Find critical points (second derivative)
+2. Make number line
+3. If positive -> concave up (U). If negative -> concave down
+
+Second Derivative Test
+1. If positive, the function has a relative minimum at that critical value
+2. If negative, the function has a relative maximum at that critical value
+3. If inconclusive, the function may be a point of inflection

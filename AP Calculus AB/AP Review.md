@@ -127,6 +127,7 @@ Used when the integrand is a composite function
 Definite Integrals
 Area Under a Curve
 
+Riemann Sums
 If you use the left endpoints:
 (b - a / n)[y0 + y1 + y2 + y3... + y(n - 1)]
 
@@ -134,6 +135,13 @@ If you use the right endpoints:
 (b - a / n)[y1 + y2 + y3... + yn]
 
 lim n->infinity (b - a / n)[y0 + y1 + y2 + y3... + y(n - 1)]
+
+Left Riemann sum: underestimate
+Actual area under the curve
+Right Riemann sum: overestimate
+
+Midpoint & Trapezoidal Sums
+area of trapezoid = (b - a)(g(a) + g(b) / 2)
 
 The Fundamental Theorem of Calculus
 integral b a f(x)dx = F(b) - F(a)
@@ -159,3 +167,16 @@ The value of the integral is the area under the curve from the constant to the v
 Inverse Trig Functions
 1. Use algebra and u-substitution
 2. Make the integrand conform to a pattern
+
+Integration using long division
+We can rewrite the integrand using polynomial long division, because the degree of the numerator is greater than or equal to the degree of the denominator.
+
+k^2 - (x + h)^2
+
+Slope Fields
+Plug coordinates into derivative of function to approximate slope
+
+Separable differential equations
+Separate the y's and the x's algebraically
+Integrate both sides
+Solve for C
