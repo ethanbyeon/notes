@@ -50,17 +50,17 @@ Stress is proportional to strain (Proportionality constant: elastic modulus).
 ---
 
 #### Young's Modulus: Elasticity in Length  
-**Tensile Stress:** The ratio of the magnitude of the external force $F$ to the cross sectional area $A$.  
+**Tensile Stress:** The ratio of the magnitude of the external force ![F](https://latex.codecogs.com/gif.latex?F) to the cross sectional area ![A](https://latex.codecogs.com/gif.latex?A).  
 
-**Pascal (Pa):**
+**Pascal (Pa):**  
 ![Young's Modulus](https://latex.codecogs.com/gif.latex?1%20Pa%20%3D%201%20N/m%5E2)  
 
-**Tensile Strain:** The ratio of the change in length delta L to the original length L (Dimensionless quantity)  
+**Tensile Strain:** The ratio of the change in length ![Delta L](https://latex.codecogs.com/gif.latex?%5CDelta%20L) to the original length ![L](https://latex.codecogs.com/gif.latex?L) (Dimensionless quantity)  
 
 ![Young's Modulus](https://latex.codecogs.com/gif.latex?%5Cfrac%7BF%7D%7BA%7D%3DY%28%5Cfrac%7B%5CDelta%20L%7D%7BL%7D%29)
 
-$Y$ is called **Young's modulus**.  
-This quanitity characterizes a rod or wire stressed under either tension or compression ($Y$ is in pascals).  
+![Y](https://latex.codecogs.com/gif.latex?Y) is called **Young's modulus**.  
+This quanitity characterizes a rod or wire stressed under either tension or compression (![Y](https://latex.codecogs.com/gif.latex?Y) is in pascals).  
 
 **Elastic limit:** Point where the stress-strain curve departs from a straight line.  
 **Ultimate strength:** The greatest stress the substance can withstand without breaking.  
@@ -78,7 +78,7 @@ This quanitity characterizes a rod or wire stressed under either tension or comp
 #### Bulk Modulus: Volume Elasticity  
 Characterizes the response of a substance to uniform squeezing.  
 
-**Volume strain:**
+**Volume strain:**  
 ![Bulk Modulus](https://latex.codecogs.com/gif.latex?%5CDelta%20P%20%3D%20-B%20%28%5Cfrac%7B%5CDelta%20V%7D%7BV%7D%29)
 
 *An increase in pressure causes a decrease in volume and vice versa.*  
