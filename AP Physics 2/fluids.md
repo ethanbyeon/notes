@@ -43,7 +43,7 @@ Highly ionized (electrons freed from the surrounding nucleus when heated to high
 Stress is proportional to strain (Proportionality constant: elastic modulus).  
 *Constant can be taken as the stiffness of a material.*  
 
-$$stress = elastic modulus * strain$$  
+*stress = elastic modulus * strain*  
 
 **Stress causes strain.** 
 
@@ -53,11 +53,11 @@ $$stress = elastic modulus * strain$$
 **Tensile Stress:** The ratio of the magnitude of the external force $F$ to the cross sectional area $A$.  
 
 **Pascal (Pa):**
-$$1 Pa = 1 N / m^2$$  
+![Young's Modulus](https://latex.codecogs.com/gif.latex?1%20Pa%20%3D%201%20N/m%5E2)  
 
 **Tensile Strain:** The ratio of the change in length delta L to the original length L (Dimensionless quantity)  
 
-$$\frac{F}{A} = Y (\frac{\Delta L}{L})$$ 
+![Young's Modulus](https://latex.codecogs.com/gif.latex?%5Cfrac%7BF%7D%7BA%7D%3DY%28%5Cfrac%7B%5CDelta%20L%7D%7BL%7D%29)
 
 $Y$ is called **Young's modulus**.  
 This quanitity characterizes a rod or wire stressed under either tension or compression ($Y$ is in pascals).  
@@ -71,13 +71,14 @@ This quanitity characterizes a rod or wire stressed under either tension or comp
 #### Shear Modulus: Elasticity of Shape  
 **Shear Stress:** A type of deformation that occurs when an object is subjected to a force parallel to one of its faces while the opposite face is held fixed by a second force. Applied force is parallel to the cross-sectional area while tensile stress is the force perpendicular to the cross-sectional area.  
 
-$$\frac{F}{A} = S (\frac{\Delta x}{h})$$  
+![Shear Modulus](https://latex.codecogs.com/gif.latex?%5Cfrac%7BF%7D%7BA%7D%20%3D%20S%20%28%5Cfrac%7B%5CDelta%20x%7D%7Bh%7D%29)
 
 ---
 
 #### Bulk Modulus: Volume Elasticity  
 Characterizes the response of a substance to uniform squeezing.  
 
-**Volume strain:** $$\Delta P = -B (\frac{\Delta V}{V})$$
+**Volume strain:**
+![Bulk Modulus](https://latex.codecogs.com/gif.latex?%5CDelta%20P%20%3D%20-B%20%28%5Cfrac%7B%5CDelta%20V%7D%7BV%7D%29)
 
-*An increase in pressure causes a decrease in volume.*  
+*An increase in pressure causes a decrease in volume and vice versa.*  
