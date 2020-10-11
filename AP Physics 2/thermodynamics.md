@@ -89,7 +89,7 @@ There are two ways to add internal energy to a gas.
 ![Isobaric Equation](https://latex.codecogs.com/gif.latex?\Delta&space;U&space;=&space;Q&space;&plus;&space;(-P&space;\Delta&space;V))  
 
 **Isothermal (Constant temperature):**  
-![Conditions](https://latex.codecogs.com/gif.latex?\Delta&space;U&space;=&space;0,&space;\Delta&space;T&space;=&space;0,&space;\Delta&space;PV&space;=&space;0) 
+![Conditions](https://latex.codecogs.com/gif.latex?\Delta&space;U&space;=&space;0,&space;\Delta&space;T&space;=&space;0,&space;\Delta&space;PV&space;=&space;0)  
 ![Isothermal Equation](https://latex.codecogs.com/gif.latex?PV&space;=&space;nRT&space;\rightarrow&space;P&space;=&space;\frac{nRT}{v})  
 
 **Isometric (Constant volume):**  
