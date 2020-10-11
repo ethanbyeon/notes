@@ -23,10 +23,11 @@ Increase in temperature -> Increase in energy
 
 ![Relationship between PV and temperature](https://latex.codecogs.com/gif.latex?PV&space;=&space;k&space;*&space;NT)  
 
-![PV / T = k](https://latex.codecogs.com/gif.latex?\frac{PV}{T}&space;=&space;k)
+![PV / T = k](https://latex.codecogs.com/gif.latex?\frac{PV}{T}&space;=&space;k)  
+
 ![Combined Gas Law](https://latex.codecogs.com/gif.latex?\frac{P_{1}V_{1}}{T_{1}}&space;=&space;\frac{P_{2}V_{2}}{T_{2}})  
 
-If temperature increases and volume is constant, pressure **increases**. 
+If temperature increases and volume is constant, pressure **increases**.  
 If temperature increases and volume increases, pressure is **constant**.  
 
 ![Derivation of Ideal Gas Law](https://latex.codecogs.com/gif.latex?PV&space;=&space;k&space;*&space;KE_{sys}&space;=&space;k&space;*&space;NT)  
@@ -68,7 +69,6 @@ If temperature increases and volume increases, pressure is **constant**.
 * If the thickness of the material decreases, ![Q / t](https://latex.codecogs.com/gif.latex?\frac{Q}{t}) increases. 
 * Ta > Tb: As (Ta - Tb) increases, ![Q / t](https://latex.codecogs.com/gif.latex?\frac{Q}{t}) increases  
 
-![Rate of Thermal Conduction](https://latex.codecogs.com/gif.latex?\frac{Q}{t}) 
 * k = material of the wall  
 
 ---
@@ -82,28 +82,27 @@ If temperature increases and volume increases, pressure is **constant**.
 **1st Law:**  
 
 ![1st Law Equation](https://latex.codecogs.com/gif.latex?\Delta&space;U&space;=&space;Q&space;&plus;&space;W)  
-* Two ways to add internal energy to a gas 
-* *U* is proportional to *T*: As *U* increases, *T* increases. As *U* decreases, *T* decreases.
+There are two ways to add internal energy to a gas.  
+*U* is proportional to *T*: As *U* increases, *T* increases. As *U* decreases, *T* decreases.
 
-**Isobaric:** Constant pressure  
+**Isobaric (Constant pressure):**  
 ![Isobaric Equation](https://latex.codecogs.com/gif.latex?\Delta&space;U&space;=&space;Q&space;&plus;&space;(-P&space;\Delta&space;V))  
 
-**Isothermal:** Constant temperature  
+**Isothermal (Constant temperature):**  
 ![Conditions](https://latex.codecogs.com/gif.latex?\Delta&space;U&space;=&space;0,&space;\Delta&space;T&space;=&space;0,&space;\Delta&space;PV&space;=&space;0) 
-* ![Isothermal Equation](https://latex.codecogs.com/gif.latex?PV&space;=&space;nRT&space;\rightarrow&space;P&space;=&space;\frac{nRT}{v})  
+![Isothermal Equation](https://latex.codecogs.com/gif.latex?PV&space;=&space;nRT&space;\rightarrow&space;P&space;=&space;\frac{nRT}{v})  
 
-**Isometric:** Constant volume  
+**Isometric (Constant volume):**  
 ![Conditions](https://latex.codecogs.com/gif.latex?W&space;=&space;0,&space;\Delta&space;U&space;=&space;Q)  
 
-**Adiabatic:** *"No heat exchanged"*  
+**Adiabatic (*"No heat exchanged"*):**  
 ![Conditions](https://latex.codecogs.com/gif.latex?Q&space;=&space;0,&space;\Delta&space;U&space;=&space;W)  
 
 *Area under the curve is equal to the work by gas*  
+
 ![Relationship between PV and volume](https://latex.codecogs.com/gif.latex?W_{gas}&space;=&space;P&space;\Delta&space;V&space;=&space;\frac{F}{A}&space;*&space;\Delta&space;hA)   
 
 ![Deriving work from PV and volume](https://latex.codecogs.com/gif.latex?=&space;\frac{FA}{A}&space;*&space;\Delta&space;h&space;=&space;F&space;\Delta&space;h&space;=&space;W)  
-
----
 
 #### Kinetic Molecular Theory of Gases 
 ![PV and KE](https://latex.codecogs.com/gif.latex?PV&space;=&space;Nm&space;*&space;\overline{V^2}&space;=&space;\frac{Nm}{3}&space;*&space;\overline{V_{total}^2})  
