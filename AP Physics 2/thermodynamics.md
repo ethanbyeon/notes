@@ -1,24 +1,23 @@
 # Thermodynamics
 
 ### Temperature, Kinetic Theory, and the Ideal Gas Law
-F = delta P / delta T 
-P = F / A 
-PV = k -> P1V1 = k = P2V2 
+![Force = Change in Momentum / Change in Time](https://latex.codecogs.com/gif.download?F%20%3D%20%5Cfrac%7B%5CDelta%20P%7D%7B%5CDelta%20T%7D) 
+![Pressure Equation](https://latex.codecogs.com/gif.download?P%20%3D%20%5Cfrac%7BF%7D%7BA%7D) 
+![Relationship between pressure and volume](https://latex.codecogs.com/gif.download?PV%20%3D%20k%20%5C%5CP_%7B1%7DV_%7B1%7D%20%3D%20k%20%3D%20P_%7B2%7DV_%7B2%7D%20%5C%5CP_%7B1%7DV_%7B1%7D%20%3D%20P_%7B2%7DV_%7B2%7D) 
 
 Increase in temperature -> Increase in energy 
 **Temperature:** The measure of average kinteic energy per molecule in a substance. 
-T = k KE(sys) / N -> (energy / molecule) 
-KE(sys) = k * N * T 
+![Temperature Equation](https://latex.codecogs.com/gif.download?T%20%3D%20k%20*%20%5Cfrac%7BKE_%7Bsys%7D%7D%7BN%7D%20%5Crightarrow%20%28%5Cfrac%7Benergy%7D%7Bmolecule%7D%29) 
+![Relationship between KE and temperature](https://latex.codecogs.com/gif.download?KE_%7Bsys%7D%20%3D%20k%20*%20NT)
 
-PV = k * (KE(sys)) 
-PV = k * (N * T) -> if N is constant 
-PV / T = k 
-P1V1 / T1 = P2V2 / T2 
+![Relationship between PV and KE](https://latex.codecogs.com/gif.download?PV%20%3D%20k%20*%20KE_%7Bsys%7D) 
+![Relationship between PV and temperature](https://latex.codecogs.com/gif.download?PV%20%3D%20k%20*%20NT) 
+![PV / T = k](https://latex.codecogs.com/gif.download?%5Cfrac%7BPV%7D%7BT%7D%20%3D%20k)
+![Combined Gas Law](https://latex.codecogs.com/gif.download?%5Cfrac%7BP_%7B1%7DV_%7B1%7D%7D%7BT_%7B1%7D%7D%20%3D%20%5Cfrac%7BP_%7B2%7DV_%7B2%7D%7D%7BT_%7B2%7D%7D) 
 * If temperature increases and volume is constant, pressure increases. 
 * If temperature increases and volume increases, pressure is constant. 
 
-PV = k * KE(sys) = k * N * T 
--> PV = n * R * T 
+![Ideal Gas Law](https://latex.codecogs.com/gif.download?PV%20%3D%20k%20*%20KE_%7Bsys%7D%20%3D%20k%20*%20NT%20%5C%5C%5Crightarrow%20PV%20%3D%20nRT) 
 * n = mole = 6.023 * 10^23 
 * R = 8.31 J / mol*k 
 * T = Kelvin 
@@ -42,43 +41,44 @@ PV = k * KE(sys) = k * N * T
 
 ### Rate of Thermal Conduction 
 *The amount of heat transferred per unit time.* 
-Q / t = ? 
-* As area increases, the rate, Q / t, increases. 
-* As area decreases, the rate, Q / t, decreases.
-* If the thickness of the material increases, the rate, Q / t, decreases.
-* If the thickness of the material decreases, the rate, Q / t, increases. 
-* Ta > Tb: As (Ta - Tb) increases, the rate, Q / t increases 
-Q / t = k * A(Ta - Tb) / d 
+![Q / t = ?](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D%20%3D%20%3F) 
+* As area increases, ![Q / t](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D) increases. 
+* As area decreases, ![Q / t](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D) decreases.
+* If the thickness of the material increases, ![Q / t](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D) decreases.
+* If the thickness of the material decreases, ![Q / t](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D) increases. 
+* Ta > Tb: As (Ta - Tb) increases, ![Q / t](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D) increases 
+![Rate of Thermal Conduction](https://latex.codecogs.com/gif.download?%5Cfrac%7BQ%7D%7Bt%7D%20%3D%20k%20*%20%5Cfrac%7BA%28T_%7Ba%7D%20-%20T_%7Bb%7D%29%7D%7Bd%7D) 
 * k = material of the wall 
 
 ### Laws of Thermodynamics 
 U = internal energy of a gas 
 Q = energy a gas gains through thermal conduction (heat added to the gas)
 W = work done on the gas
-T = energy a gas has at a given moment (P * delta V)
+T = energy a gas has at a given moment (![P * delta V](https://latex.codecogs.com/gif.download?P%20%5CDelta%20V)) 
 
-**1st Law:** delta U = Q + W 
+**1st Law:** 
+![1st Law Equation](https://latex.codecogs.com/gif.download?%5CDelta%20U%20%3D%20Q%20+%20W) 
 * Two ways to add internal energy to a gas 
 * U is proportional to T: As U increases, T increases. As U decreases, T decreases.
 
 **Isobaric:** Constant pressure 
-* delta U = Q + (-P * delta V) 
+* ![Isobaric Equation](https://latex.codecogs.com/gif.download?%5CDelta%20U%20%3D%20Q%20+%20%28-P%20%5CDelta%20V%29) 
 **Isothermal:** Constant temperature 
-* delta U = 0, delta T = 0, delta (PV) = 0 
-* PV = nRT -> P = nRT / v (nRT is constant) 
+* ![Conditions](https://latex.codecogs.com/gif.download?%5CDelta%20U%20%3D%200%2C%20%5CDelta%20T%20%3D%200%2C%20%5CDelta%20PV%20%3D%200) 
+* ![Isothermal Equation](https://latex.codecogs.com/gif.download?PV%20%3D%20nRT%20%5Crightarrow%20P%20%3D%20%5Cfrac%7BnRT%7D%7Bv%7D) 
 **Isometric:** Constant volume 
-* W = 0, delta U = Q 
+* ![Conditions](https://latex.codecogs.com/gif.download?W%20%3D%200%2C%20%5CDelta%20u%20%3D%20Q) 
 **Adiabatic:** "No heat exchanged" 
-* Q = 0, delta U = W 
+* ![Conditions](https://latex.codecogs.com/gif.download?Q%20%3D%200%2C%20%5CDelta%20U%20%3D%20W) 
 
 Area under curve = work by gas 
-= P * delta V = F / A * delta(hA) 
-= FA/ A * delta h = F * delta h = work 
+![Relationship between PV and volume](https://latex.codecogs.com/gif.download?%3D%20P%20%5CDelta%20V%20%3D%20%5Cfrac%7BF%7D%7BA%7D%20*%20%5CDelta%20hA) 
+![Deriving work from PV and volume](https://latex.codecogs.com/gif.download?%3D%20%5Cfrac%7BFA%7D%7BA%7D%20*%20%5CDelta%20h%20%3D%20F%20%5CDelta%20h%20%3D%20work) 
 
 #### Kinetic Molecular Theory of Gases 
-PV = N * m * (Avg. V^2) = Nm / 3 * (Avg. Vtot ^2) 
--> 3/2 * PV = N[1/2 * m * (Avg. Vtot^2)] 
--> 3/2 * PV = [N * KE avg] = Utot
--> KE avg = 3/2 * nRT 
--> Utot = 3/2 PV 
-= 3/2 nRT 
+![PV and KE](https://latex.codecogs.com/gif.download?PV%20%3D%20Nm%28%5Coverline%7BV%5E%7B2%7D%7D%29%20%3D%20%5Cfrac%7BNm%7D%7B3%7D%20*%20%5Coverline%7BV_%7Btotal%7D%5E2%7D) 
+![PV and KE continued](https://latex.codecogs.com/gif.download?%5Crightarrow%20%5Cfrac%7B3%7D%7B2%7D%20*%20PV%20%3D%20N%28%5Cfrac%7B1%7D%7B2%7Dm%5Coverline%7BV_%7Btotal%7D%7D%5E2%29) 
+![continued](https://latex.codecogs.com/gif.download?%5Crightarrow%20%5Cfrac%7B3%7D%7B2%7D%20*%20PV%20%3D%20N%20*%20KE_%7Bavg%7D%20%3D%20U_%7Btotal%7D) 
+![continued](https://latex.codecogs.com/gif.download?%5Crightarrow%20KE_%7Bavg%7D%20%3D%20%5Cfrac%7B3%7D%7B2%7D%20*%20nRT)  
+![Energy associated with a gas](https://latex.codecogs.com/gif.download?%5Crightarrow%20U_%7Btotal%7D%20%3D%20%5Cfrac%7B3%7D%7B2%7D%20PV) 
+![continued](https://latex.codecogs.com/gif.download?%3D%20%5Cfrac%7B3%7D%7B2%7D%20nRT) 
